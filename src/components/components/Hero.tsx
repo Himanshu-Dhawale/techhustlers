@@ -125,8 +125,8 @@ const HeroSection: React.FC = () => {
               
               
               <div className="p-4 text-sm font-mono">
-                <div className="text-gray-400 mb-2">// App.tsx</div>
-                <div className="text-blue-400">import <span className="text-yellow-300">React</span> from <span className="text-green-400">'react'</span>;</div>
+                <div className="text-gray-400 mb-2">{'// App.tsx'}</div>
+                <div className="text-blue-400">import <span className="text-yellow-300">React</span> from <span className="text-green-400">&apos;react&apos;</span>;</div>
                 <div className="text-blue-400 mt-2">function <span className="text-yellow-300">App</span>() {'{'}</div>
                 <div className="text-gray-300 ml-4 mt-1">return (</div>
                 <div className="text-gray-300 ml-8 mt-1">&lt;<span className="text-red-400">div</span>&gt;</div>
