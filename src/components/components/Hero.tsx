@@ -16,7 +16,7 @@ const Hero = () => {
               <span className="mx-3">for both</span>
 
               <span className="inline-flex items-center space-x-3 ml-2">
-                <span className="text-[inherit] text-gray-500">[</span>
+                <span className="text-gray-500">[</span>
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-violet-400 to-pink-400 font-extrabold text-[1.05em]">
                   Design
                 </span>
